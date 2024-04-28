@@ -1,0 +1,19 @@
+"unlitgeneric"
+{
+$basetexture "models/ThePixel/SSBU/KingDedede/props/glow"
+$bumpmap "models/ThePixel/SSBU/KingDedede/props/glowbump"
+	"$color2"				"[1.5 1.5 1.5]"
+	"$translucent"	"1"
+	"$halflambert"	"1"
+
+	"$phong" "1"
+	"$PhongAlbedoTint"	"1"
+//	"$phongexponenttexture"	"models/ThePixel/SSBU/KingDedede/exponent"
+	"$phongexponent" "0"
+	"$phongboost" "0"	
+	"$phongfresnelranges"	"[.2 0.85 1]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+//	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+}

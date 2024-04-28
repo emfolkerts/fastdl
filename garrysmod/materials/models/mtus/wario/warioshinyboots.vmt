@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/mtus/wario/war_alb"
+	"$bumpmap"     			"models/mtus/wario/war_nor"
+	"$color2"				"[1.5 1.5 1.5]"
+
+	"$phong" "1"
+	"$PhongAlbedoTint"	"1"
+//	"$phongexponenttexture"	"models/mtus/white"
+	"$phongexponent" "32"
+	"$phongboost" "1.98"	
+	"$phongfresnelranges"	"[.6 0.6 1]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+//	"$rimlightexponent" "8"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1.8"										// Boost for ambient cube component of rim lighting
+}

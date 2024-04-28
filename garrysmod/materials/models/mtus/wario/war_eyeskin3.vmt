@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mtus/wario/war_eyeskin3"
+	"$halflambert"			"1"
+	"$color2"				"[1.5 1.5 1.5]"
+	"$bumpmap" "models/mtus/wario/war_eye_nor_l"
+	
+	"$phong"				"1"
+	"$phongalbedotint"		"1"
+	"$phongboost"			"1.75"
+	"$phongexponenttexture"	"models/mtus/white"
+	"$phongexponent"		"5"
+	"$phongfresnelranges"	"[.3 1 8]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"0.5"
+	"$rimlightboost"		"0.5"
+}

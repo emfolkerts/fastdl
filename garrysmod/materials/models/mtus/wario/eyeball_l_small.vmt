@@ -1,0 +1,6 @@
+"Eyes"
+{
+	"$basetexture"	"models/mtus/wario/eyeball_l_small"
+	"$iris"         "models/mtus/wario/war_iris_l_small"
+	"$halflambert"	"1"
+}

@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+$basetexture "models/ThePixel/SSBU/KingDedede/waddledee/eyes"
+$bumpmap "models/ThePixel/SSBU/KingDedede/flat"
+	"$color2"				"[2 2 2]"
+	"$translucent"	"1"
+	"$halflambert"	"1"
+
+	"$phong" "1"
+	"$PhongAlbedoTint"	"1"
+//	"$phongexponenttexture"	"models/ThePixel/SSBU/KingDedede/exponent"
+	"$phongexponent" "70"
+	"$phongboost" "3"	
+	"$phongfresnelranges"	"[.2 0.85 1]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+//	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"										// Boost for ambient cube component of rim lighting
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/mtus/wario/silver"
+	"$halflambert"			"1"
+	"$color2"				"[1.55 1.55 1.55]"
+	"$envmap"				"models/mtus/white"
+	"$envmapfresnel" "1" 
+	"$envmaptint"		"[.55 .55 .55]"
+}

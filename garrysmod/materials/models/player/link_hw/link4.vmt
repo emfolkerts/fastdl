@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/link_hw/link4"
+
+
+	"$bumpmap" "models/player/link_hw/link_normal"
+
+	"$halflambert" "1"
+}

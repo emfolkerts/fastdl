@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/toonlink/FitToonLink_EyeLid0"
+	"$translucent" 1
+}

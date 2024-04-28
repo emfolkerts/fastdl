@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/celtoonlink/celtoonlink_body_silver"
+	"$alphatest" 1
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "0"	
+
+	"$lightwarptexture" "models/celtoonlink/toon_n"
+	"$halflambert" 1
+}

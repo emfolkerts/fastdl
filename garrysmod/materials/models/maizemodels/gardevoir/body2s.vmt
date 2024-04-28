@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/maizemodels/gardevoir/Body2s"
+	"$surfaceprop" "Flesh"
+}

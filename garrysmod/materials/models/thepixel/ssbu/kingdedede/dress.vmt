@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+$basetexture "models/ThePixel/SSBU/KingDedede/dress"
+$bumpmap "models/ThePixel/SSBU/KingDedede/dressbump2"
+	"$color2"				"[1.5 1.5 1.5]"
+
+	"$phong" "1"
+	"$PhongAlbedoTint"	"1"
+	"$phongexponenttexture"	"models/ThePixel/SSBU/KingDedede/exponent"
+	"$phongexponent" "4"
+	"$phongboost" "2.98"	
+	"$phongfresnelranges"	"[1.15 6.78 10.25]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+//	"$rimlightexponent" "8"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" ".8"										// Boost for ambient cube component of rim lighting
+}

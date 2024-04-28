@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/maizemodels/gardevoir/eyesc5"
+	"$surfaceprop" "Flesh"
+
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
+
+	Proxies
+	{
+	PlayerColor
+	{
+	resultVar $color2
+	default 0.75 0.75 0.75
+}
